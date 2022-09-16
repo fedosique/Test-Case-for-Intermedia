@@ -1,5 +1,6 @@
 # Test-Case-for-Intermedia
 Test Case for Project Management Internship @ Intermedia Cloud Communications, february 2022.
+Fortunately, I've been enrolled to this internship after this test case. 
 
 ## Intermedia Unite app - review
 After exploring Intermedia Unite application, I
